@@ -1,0 +1,19 @@
+{
+  "name": "frayzzle",
+  "version": "0.0.1",
+  "description"  : "Simple todo application.",
+  "main"         : "server.js",
+  "author"       : "Namdascious",
+  "dependencies" : {
+    "express"    : "*",
+    "mongoose"   : "*",
+    "morgan"     : "*",
+    "body-parser": "*",
+    "connect-multiparty" : "*",
+    "method-override": "*",
+    "retext" : "*",
+    "underscore" : "*",
+    "restler" : "*",
+    "pdf2json" : "*"
+  }
+}
